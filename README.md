@@ -31,3 +31,8 @@ Desde aquí puedes:
 * Una cuenta con acceso a Microsoft Power Apps.
 
 * Acceso a una lista de SharePoint configurada para almacenar los registros.
+## 🎥 Créditos
+Esta aplicación fue desarrollada tomando como referencia el siguiente video del canal CepaCode en YouTube:
+
+🔗 Power Apps - Curso básico
+(https://www.youtube.com/watch?v=hM4qaN_GGJA)
